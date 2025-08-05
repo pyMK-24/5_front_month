@@ -1,12 +1,13 @@
 import './App.scss'
-import { Card } from './components/cards/card'
+import { UserList } from './components/cards/Userlist'
+import users from "./db/users.json"
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello</h1>
-      <Card />
-    </div>
+    <>
+      <h1 id='title'>User Cards</h1>
+      <UserList user={users}/>
+    </>
   )
 }
 

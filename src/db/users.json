@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": 24,
+    "city": "New York",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Anna",
+    "age": 30,
+    "city": "Los Angeles",
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Mike",
+    "age": 27,
+    "city": "Chicago",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Sophia",
+    "age": 22,
+    "city": "Miami",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "age": 35,
+    "city": "Seattle",
+    "active": false
+  }
+]
