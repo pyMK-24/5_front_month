@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Top 5 Places to Visit in Iceland",
+    "author": "Laura Mitchell",
+    "content": "Iceland offers stunning natural wonders like the Blue Lagoon, Gullfoss waterfall, and the northern lights. Here's a guide to the top 5 must-see locations."
+  },
+  {
+    "id": 2,
+    "title": "Why Reading Fiction Improves Empathy",
+    "author": "James Cooper",
+    "content": "Studies show that people who read literary fiction score higher in emotional intelligence. This article explores how stories help us understand others better."
+  },
+  {
+    "id": 3,
+    "title": "A Beginner's Guide to Meditation",
+    "author": "Sophie Tanaka",
+    "content": "Meditation can reduce stress and improve focus. Learn how to start with just 5 minutes a day and gradually build a sustainable habit."
+  },
+  {
+    "id": 4,
+    "title": "The Science Behind Good Sleep",
+    "author": "Dr. Michael Harris",
+    "content": "Sleep is critical to your health. Discover how sleep cycles work, and tips to improve your sleep quality naturally without pills."
+  },
+  {
+    "id": 5,
+    "title": "Minimalism: Living With Less",
+    "author": "Rachel Owens",
+    "content": "Minimalism isn't about empty rooms — it's about intentional living. Here's how simplifying your possessions can lead to more clarity and freedom."
+  }
+]
